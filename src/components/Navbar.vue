@@ -90,9 +90,8 @@ const isOpen = ref(false)
 const links = [
   { to: '/', label: 'Home' },
   { to: '/about', label: 'About' },
-  { to: '/menu', label: 'Menu' },
-  { to: '/paket', label: 'Paket' },
-  { to: '/contact', label: 'Contact' }
+  { to: '/services', label: 'Services' },
+  { to: '/contact', label: 'Contact Us' }
 ]
 
 const logo = logoUrl
